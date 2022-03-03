@@ -14,9 +14,11 @@ You can see cryptocurrencies and 24-hour volume instantly on discord.
 ... |
 
 ## 📌 Information
-- If you want bots of other cryptocurrencies, you can contact me.
-
 - If you do not authorize the bot, it will leave your server.
+
+- The bot requires only 2 authorizations (Manage Nicknames, Change Nickname) to use it, so it does not pose any danger to your server. you can use it easily.
+
+- If you want bots of other cryptocurrencies, you can contact me.
 
 - The information of cryptocurrencies is obtained from binance and coingecko.
 
