@@ -1,5 +1,3 @@
-# Cryptocurrency
-
 You can see cryptocurrencies and 24-hour volume instantly on discord.
 
 ## Bots
@@ -17,6 +15,7 @@ You can see cryptocurrencies and 24-hour volume instantly on discord.
 - Note:
 1. If you want bots of other cryptocurrencies, you can contact me.
 2. If you do not authorize the bot, it will leave your server.
+```
 
 ### Support or Contact
 
