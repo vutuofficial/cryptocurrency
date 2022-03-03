@@ -8,7 +8,11 @@ You can see cryptocurrencies and 24-hour volume instantly on discord.
 
 [BNB](https://discord.com/api/oauth2/authorize?client_id=949021539121123350&permissions=201326592&scope=bot) |
 
-... |
+[DOGE](https://discord.com/api/oauth2/authorize?client_id=949050435254255677&permissions=201326592&scope=bot) |
+
+[MANA](https://discord.com/api/oauth2/authorize?client_id=949051188832243722&permissions=201326592&scope=bot) |
+
+[RACA](https://discord.com/api/oauth2/authorize?client_id=948619938476724244&permissions=201326592&scope=bot) |
 ... |
 ... |
 ... |
