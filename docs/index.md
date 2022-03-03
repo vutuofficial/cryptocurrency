@@ -20,6 +20,7 @@ You can see cryptocurrencies and 24-hour volume instantly on discord.
 
 - The information of cryptocurrencies is obtained from binance and coingecko.
 
-- You can add my bots to your server so that I can make more bots. It will be your greatest support. 💜 |
+- You can add my bots to your server so that I can make more bots. It will be your greatest support. 💜
 
-### 🛠 [Support Server](https://discord.gg/kaMmhpA9Qg) or vutu#9696
+#
+### ⚙️ [Support Server](https://discord.gg/kaMmhpA9Qg) or vutu#9696
