@@ -12,6 +12,8 @@ You can see cryptocurrencies and 24-hour volume instantly on discord.
 
 [MANA](https://discord.com/api/oauth2/authorize?client_id=949051188832243722&permissions=201326592&scope=bot) |
 
+[SOL](https://discord.com/api/oauth2/authorize?client_id=949200740969238568&permissions=201326592&scope=bot) |
+
 [AVAX](https://discord.com/api/oauth2/authorize?client_id=949194595722485770&permissions=201326592&scope=bot) |
 
 [LTC](https://discord.com/api/oauth2/authorize?client_id=949194664009932830&permissions=201326592&scope=bot) |
