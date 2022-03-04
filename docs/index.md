@@ -20,6 +20,10 @@ You can see cryptocurrencies and 24-hour volume instantly on discord.
 
 [WAVES](https://discord.com/api/oauth2/authorize?client_id=949194721446735893&permissions=201326592&scope=bot) |
 
+[DOT](https://discord.com/api/oauth2/authorize?client_id=949409361120338000&permissions=201326592&scope=bot) |
+
+[AXS](https://discord.com/api/oauth2/authorize?client_id=949411987379589120&permissions=201326592&scope=bot) |
+
 [RACA](https://discord.com/api/oauth2/authorize?client_id=948619938476724244&permissions=201326592&scope=bot) |
 
 ... |
