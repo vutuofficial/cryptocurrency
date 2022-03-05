@@ -2,37 +2,45 @@ You can see cryptocurrencies and 24-hour volume instantly on discord.
 
 ## Bots 🤖
 
-1- [BTC](https://discord.com/api/oauth2/authorize?client_id=947772389712859177&permissions=201326592&scope=bot) |
+1- [(Bitcoin) BTC](https://discord.com/api/oauth2/authorize?client_id=947772389712859177&permissions=201326592&scope=bot) |
 
-2- [ETH](https://discord.com/api/oauth2/authorize?client_id=949021478152699934&permissions=201326592&scope=bot) |
+2- [(Ethereum) ETH](https://discord.com/api/oauth2/authorize?client_id=949021478152699934&permissions=201326592&scope=bot) |
 
 3- [BNB](https://discord.com/api/oauth2/authorize?client_id=949021539121123350&permissions=201326592&scope=bot) |
 
-4- [DOGE](https://discord.com/api/oauth2/authorize?client_id=949050435254255677&permissions=201326592&scope=bot) |
+4- [(Dogecoin) DOGE](https://discord.com/api/oauth2/authorize?client_id=949050435254255677&permissions=201326592&scope=bot) |
 
-5- [MANA](https://discord.com/api/oauth2/authorize?client_id=949051188832243722&permissions=201326592&scope=bot) |
+5- [(Decentraland) MANA](https://discord.com/api/oauth2/authorize?client_id=949051188832243722&permissions=201326592&scope=bot) |
 
-6- [SOL](https://discord.com/api/oauth2/authorize?client_id=949200740969238568&permissions=201326592&scope=bot) |
+6- [(Solana) SOL](https://discord.com/api/oauth2/authorize?client_id=949200740969238568&permissions=201326592&scope=bot) |
 
-7- [AVAX](https://discord.com/api/oauth2/authorize?client_id=949194595722485770&permissions=201326592&scope=bot) |
+7- [(Avalanche) AVAX](https://discord.com/api/oauth2/authorize?client_id=949194595722485770&permissions=201326592&scope=bot) |
 
-8- [LTC](https://discord.com/api/oauth2/authorize?client_id=949194664009932830&permissions=201326592&scope=bot) |
+8- [(Litecoin) LTC](https://discord.com/api/oauth2/authorize?client_id=949194664009932830&permissions=201326592&scope=bot) |
 
 9- [WAVES](https://discord.com/api/oauth2/authorize?client_id=949194721446735893&permissions=201326592&scope=bot) |
 
-10- [DOT](https://discord.com/api/oauth2/authorize?client_id=949409361120338000&permissions=201326592&scope=bot) |
+10- [(Polkadot) DOT](https://discord.com/api/oauth2/authorize?client_id=949409361120338000&permissions=201326592&scope=bot) |
 
-11- [AXS](https://discord.com/api/oauth2/authorize?client_id=949411987379589120&permissions=201326592&scope=bot) |
+11- [(Axie Infinity) AXS](https://discord.com/api/oauth2/authorize?client_id=949411987379589120&permissions=201326592&scope=bot) |
 
-12- [ADA](https://discord.com/api/oauth2/authorize?client_id=949482937827598417&permissions=201326592&scope=bot) |
+12- [(Cardano) ADA](https://discord.com/api/oauth2/authorize?client_id=949482937827598417&permissions=201326592&scope=bot) |
 
 13- [GALA](https://discord.com/api/oauth2/authorize?client_id=949486976195784744&permissions=201326592&scope=bot) |
 
-14- [MATIC](https://discord.com/api/oauth2/authorize?client_id=949488792161640489&permissions=201326592&scope=bot) |
+14- [(Polygon) MATIC](https://discord.com/api/oauth2/authorize?client_id=949488792161640489&permissions=201326592&scope=bot) |
 
-15- [HNT](https://discord.com/api/oauth2/authorize?client_id=949670962473889832&permissions=201326592&scope=bot) |
+15- [(Helium) HNT](https://discord.com/api/oauth2/authorize?client_id=949670962473889832&permissions=201326592&scope=bot) |
 
-16- [RACA](https://discord.com/api/oauth2/authorize?client_id=948619938476724244&permissions=201326592&scope=bot) |
+16- [XRP](https://discord.com/api/oauth2/authorize?client_id=949678085022838854&permissions=201326592&scope=bot) |
+
+17- [(Fantom) FTM](https://discord.com/api/oauth2/authorize?client_id=949680048858890281&permissions=201326592&scope=bot) |
+
+18- [NEO](https://discord.com/api/oauth2/authorize?client_id=949680106010447932&permissions=201326592&scope=bot) |
+
+19- [(Chainlink) LINK](https://discord.com/api/oauth2/authorize?client_id=949680145717927947&permissions=201326592&scope=bot) |
+
+20- [(Radio Caca) RACA](https://discord.com/api/oauth2/authorize?client_id=948619938476724244&permissions=201326592&scope=bot) |
 
 ... |
 
