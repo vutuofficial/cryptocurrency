@@ -2,11 +2,11 @@ You can see cryptocurrencies and 24-hour volume instantly on discord.
 
 ## Bots 🤖
 
-1- [(Bitcoin) BTC](https://discord.com/api/oauth2/authorize?client_id=947772389712859177&permissions=201326592&scope=bot) ![image](https://s2.coinmarketcap.com/static/img/coins/16x16/1.png) |
+1- [(Bitcoin) BTC](https://discord.com/api/oauth2/authorize?client_id=947772389712859177&permissions=201326592&scope=bot) |
 
-2- [(Ethereum) ETH](https://discord.com/api/oauth2/authorize?client_id=949021478152699934&permissions=201326592&scope=bot) ![image](https://s2.coinmarketcap.com/static/img/coins/16x16/1027.png) |
+2- [(Ethereum) ETH](https://discord.com/api/oauth2/authorize?client_id=949021478152699934&permissions=201326592&scope=bot) |
 
-3- [BNB](https://discord.com/api/oauth2/authorize?client_id=949021539121123350&permissions=201326592&scope=bot) ![image](https://s2.coinmarketcap.com/static/img/coins/16x16/1839.png) |
+3- [BNB](https://discord.com/api/oauth2/authorize?client_id=949021539121123350&permissions=201326592&scope=bot) |
 
 4- [(Dogecoin) DOGE](https://discord.com/api/oauth2/authorize?client_id=949050435254255677&permissions=201326592&scope=bot) |
 
