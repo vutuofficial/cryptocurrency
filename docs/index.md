@@ -30,7 +30,9 @@ You can see cryptocurrencies and 24-hour volume instantly on discord.
 
 14- [MATIC](https://discord.com/api/oauth2/authorize?client_id=949488792161640489&permissions=201326592&scope=bot) |
 
-15- [RACA](https://discord.com/api/oauth2/authorize?client_id=948619938476724244&permissions=201326592&scope=bot) |
+15- [HNT](https://discord.com/api/oauth2/authorize?client_id=949670962473889832&permissions=201326592&scope=bot) |
+
+16- [RACA](https://discord.com/api/oauth2/authorize?client_id=948619938476724244&permissions=201326592&scope=bot) |
 
 ... |
 
