@@ -26,7 +26,11 @@ You can see cryptocurrencies and 24-hour volume instantly on discord.
 22- [(Tron) TRX](https://discord.com/api/oauth2/authorize?client_id=950686484502028318&permissions=201326592&scope=bot) |
 23- [(FTX Token) FTT](https://discord.com/api/oauth2/authorize?client_id=950686520052949012&permissions=201326592&scope=bot) |
 24- [(Kadena) KDA](https://discord.com/api/oauth2/authorize?client_id=950686558451818517&permissions=201326592&scope=bot) |
-25- [(Radio Caca) RACA](https://discord.com/api/oauth2/authorize?client_id=948619938476724244&permissions=201326592&scope=bot) |
+25- [(Terra) LUNA](https://discord.com/api/oauth2/authorize?client_id=950785929906380811&permissions=201326592&scope=bot) |
+26- [(Cronos) CRO](https://discord.com/api/oauth2/authorize?client_id=950786115839856670&permissions=201326592&scope=bot) |
+27- [(The Sandbox) SAND](https://discord.com/api/oauth2/authorize?client_id=950786487341961307&permissions=201326592&scope=bot) |
+28- [EOS](https://discord.com/api/oauth2/authorize?client_id=950786591843049502&permissions=201326592&scope=bot) |
+29- [(Radio Caca) RACA](https://discord.com/api/oauth2/authorize?client_id=948619938476724244&permissions=201326592&scope=bot) |
 ... |
 
 ## 📌 Information
