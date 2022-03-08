@@ -21,7 +21,12 @@ You can see cryptocurrencies and 24-hour volume instantly on discord.
 17- [(Fantom) FTM](https://discord.com/api/oauth2/authorize?client_id=949680048858890281&permissions=201326592&scope=bot) |
 18- [NEO](https://discord.com/api/oauth2/authorize?client_id=949680106010447932&permissions=201326592&scope=bot) |
 19- [(Chainlink) LINK](https://discord.com/api/oauth2/authorize?client_id=949680145717927947&permissions=201326592&scope=bot) |
-20- [(Radio Caca) RACA](https://discord.com/api/oauth2/authorize?client_id=948619938476724244&permissions=201326592&scope=bot) |
+20- [(VeChain) VET](https://discord.com/api/oauth2/authorize?client_id=950686392609034270&permissions=201326592&scope=bot) |
+21- [(Chiliz) CHZ](https://discord.com/api/oauth2/authorize?client_id=950686445016846337&permissions=201326592&scope=bot) |
+22- [(Tron) TRX](https://discord.com/api/oauth2/authorize?client_id=950686484502028318&permissions=201326592&scope=bot) |
+23- [(FTX Token) FTT](https://discord.com/api/oauth2/authorize?client_id=950686520052949012&permissions=201326592&scope=bot) |
+24- [(Kadena) KDA](https://discord.com/api/oauth2/authorize?client_id=950686558451818517&permissions=201326592&scope=bot) |
+25- [(Radio Caca) RACA](https://discord.com/api/oauth2/authorize?client_id=948619938476724244&permissions=201326592&scope=bot) |
 ... |
 
 ## 📌 Information
