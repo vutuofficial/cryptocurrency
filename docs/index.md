@@ -30,6 +30,12 @@ You can see cryptocurrencies and 24-hour volume instantly on discord.
 26- [(Cronos) CRO](https://discord.com/api/oauth2/authorize?client_id=950786115839856670&permissions=201326592&scope=bot) |
 27- [(The Sandbox) SAND](https://discord.com/api/oauth2/authorize?client_id=950786487341961307&permissions=201326592&scope=bot) |
 28- [EOS](https://discord.com/api/oauth2/authorize?client_id=950786591843049502&permissions=201326592&scope=bot) |
+28- [(Enjin Coin) ENJ](https://discord.com/api/oauth2/authorize?client_id=950794619585712139&permissions=201326592&scope=bot) |
+28- [(Basic Attention Token) BAT](https://discord.com/api/oauth2/authorize?client_id=950794660287217694&permissions=201326592&scope=bot) |
+28- [(Harmony) ONE](https://discord.com/api/oauth2/authorize?client_id=950794829149929495&permissions=201326592&scope=bot) |
+28- [(Klaytn) KLAY](https://discord.com/api/oauth2/authorize?client_id=950794861186007081&permissions=201326592&scope=bot) |
+28- [(Rally) RLY](https://discord.com/api/oauth2/authorize?client_id=950794920501842011&permissions=201326592&scope=bot) |
+28- [KAVA](https://discord.com/api/oauth2/authorize?client_id=950794951141253140&permissions=201326592&scope=bot) |
 29- [(Radio Caca) RACA](https://discord.com/api/oauth2/authorize?client_id=948619938476724244&permissions=201326592&scope=bot) |
 ... |
 
