@@ -36,7 +36,10 @@ You can see cryptocurrencies and 24-hour volume instantly on discord.
 32- [(Klaytn) KLAY](https://discord.com/api/oauth2/authorize?client_id=950794861186007081&permissions=201326592&scope=bot) |
 33- [(Rally) RLY](https://discord.com/api/oauth2/authorize?client_id=950794920501842011&permissions=201326592&scope=bot) |
 34- [KAVA](https://discord.com/api/oauth2/authorize?client_id=950794951141253140&permissions=201326592&scope=bot) |
-35- [(Radio Caca) RACA](https://discord.com/api/oauth2/authorize?client_id=948619938476724244&permissions=201326592&scope=bot) |
+35- [(Ethereum Classic) ETC](https://discord.com/api/oauth2/authorize?client_id=952193482917830656&permissions=201326592&scope=bot) |
+36- [(PancakeSwap) CAKE](https://discord.com/api/oauth2/authorize?client_id=952197332697481276&permissions=201326592&scope=bot) |
+37- [(Shiba Uni) SHIB](https://discord.com/api/oauth2/authorize?client_id=952193443919175720&permissions=201326592&scope=bot) |
+38- [(Radio Caca) RACA](https://discord.com/api/oauth2/authorize?client_id=948619938476724244&permissions=201326592&scope=bot) |
 ... |
 
 ## 📌 Information
