@@ -56,4 +56,4 @@ You can see cryptocurrencies and 24-hour volume instantly on discord.
 ## Terms of Service
 - No usage conditions are required. You can add the bot to your server and start using it. 
 
-### ⚙️ [Support Server](https://discord.gg/kaMmhpA9Qg) or vutu#9696
+### ⚙️ [Support Server](https://discord.gg/xePcHcGTk9) or vutu#9696
