@@ -40,6 +40,7 @@ You can see cryptocurrencies and 24-hour volume instantly on discord.
 36- [(PancakeSwap) CAKE](https://discord.com/api/oauth2/authorize?client_id=952197332697481276&permissions=201326592&scope=bot) |
 37- [(Shiba Uni) SHIB](https://discord.com/api/oauth2/authorize?client_id=952193443919175720&permissions=201326592&scope=bot) |
 38- [(Radio Caca) RACA](https://discord.com/api/oauth2/authorize?client_id=948619938476724244&permissions=201326592&scope=bot) |
+39- [(Onino) ONI](https://discord.com/api/oauth2/authorize?client_id=953653763992846366&permissions=201326592&scope=bot) |
 ... |
 
 ## 📌 Information
