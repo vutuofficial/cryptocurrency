@@ -42,6 +42,7 @@ You can see cryptocurrencies and 24-hour volume instantly on discord.
 38- [(Radio Caca) RACA](https://discord.com/api/oauth2/authorize?client_id=948619938476724244&permissions=201326592&scope=bot) |
 39- [(Onino) ONI](https://discord.com/api/oauth2/authorize?client_id=953653763992846366&permissions=201326592&scope=bot) |
 40- [(ApeCoin) APE](https://discord.com/api/oauth2/authorize?client_id=954878414601486356&permissions=201326592&scope=bot) |
+41- [(GateToken) GT](https://discord.com/api/oauth2/authorize?client_id=954882212069781644&permissions=201326592&scope=bot) |
 ... |
 
 ## 📌 Information
