@@ -45,6 +45,8 @@ You can see cryptocurrencies and 24-hour volume instantly on discord.
 41- [(GateToken) GT](https://discord.com/api/oauth2/authorize?client_id=954882212069781644&permissions=201326592&scope=bot) |
 42- [(CyBloc Battery Token) CBT](https://discord.com/api/oauth2/authorize?client_id=955946791168274432&permissions=201326592&scope=bot) |
 43- [(NFT Worlds) WRLD](https://discord.com/api/oauth2/authorize?client_id=955951265706303538&permissions=201326592&scope=bot) |
+44- [(Internet Computer) ICP](https://discord.com/api/oauth2/authorize?client_id=956166474110763058&permissions=201326592&scope=bot) |
+45- [(Elrond) EGLD](https://discord.com/api/oauth2/authorize?client_id=956167206176194631&permissions=201326592&scope=bot) |
 ... |
 
 ## 📌 Information
