@@ -1,8 +1,5 @@
 You can see cryptocurrencies and 24-hour volume instantly on discord.
 
-## Support
-<a href="https://www.buymeacoffee.com/vutu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
 ## Bots 🤖
 
 1- [(Bitcoin) BTC](https://top.gg/bot/947772389712859177) |
@@ -65,6 +62,9 @@ You can see cryptocurrencies and 24-hour volume instantly on discord.
 - The information of cryptocurrencies is obtained from binance, coingecko and yahoo finance.
 
 - You can add my bots to your server so that I can make more bots. It will be your greatest support. 💜
+
+## Support
+<a href="https://www.buymeacoffee.com/vutu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## Terms of Service
 - No usage conditions are required. You can add the bot to your server and start using it. 
