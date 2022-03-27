@@ -63,7 +63,7 @@ You can see cryptocurrencies and 24-hour volume instantly on discord.
 
 - You can add my bots to your server so that I can make more bots. It will be your greatest support. 💜
 
-## 🥳 Support
+## 🥳 Support for the project 
 <a href="https://www.buymeacoffee.com/vutu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## Terms of Service
