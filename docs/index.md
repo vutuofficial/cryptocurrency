@@ -48,6 +48,8 @@ You can see cryptocurrencies and 24-hour volume instantly on discord.
 44- [(Internet Computer) ICP](https://discord.com/api/oauth2/authorize?client_id=956166474110763058&permissions=201326592&scope=bot) |
 45- [(Elrond) EGLD](https://discord.com/api/oauth2/authorize?client_id=956167206176194631&permissions=201326592&scope=bot) |
 46- [(Bitkub) KUB/THB](https://discord.com/api/oauth2/authorize?client_id=957583965093503046&permissions=201326592&scope=bot) |
+47- [(Bitcoin Cash) BCH](https://discord.com/api/oauth2/authorize?client_id=957587432482672690&permissions=201326592&scope=bot) |
+48- [(Zcash) ZEC](https://discord.com/api/oauth2/authorize?client_id=957587475793055774&permissions=201326592&scope=bot) |
 ... |
 
 ## 📌 Information
