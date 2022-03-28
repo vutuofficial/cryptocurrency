@@ -59,7 +59,7 @@ You can see cryptocurrencies and 24-hour volume instantly on discord.
 
 - If you want bots of other cryptocurrencies, you can contact me.
 
-- The information of cryptocurrencies is obtained from binance, coingecko and yahoo finance.
+- The information of cryptocurrencies is obtained from [binance](https://docs.binance.us) and [coingecko](https://www.coingecko.com/en/api/documentation)
 
 - You can add my bots to your server so that I can make more bots. It will be your greatest support. 💜
 
