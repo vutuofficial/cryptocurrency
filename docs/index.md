@@ -52,7 +52,7 @@ You can see cryptocurrencies and 24-hour volume instantly on discord.
 48- [(Zcash) ZEC](https://discord.com/api/oauth2/authorize?client_id=957587475793055774&permissions=201326592&scope=bot) |
 ... |
 
-## 📌 Information
+## Information
 - If you do not authorize the bot, it will leave your server.
 
 - The bot requires only 2 authorizations (Manage Nicknames, Change Nickname) to use it, so it does not pose any danger to your server. you can use it easily.
