@@ -2,7 +2,7 @@ You can see cryptocurrencies and 24-hour volume instantly on discord.
 
 ## Bots 🤖
 
-1- [(Bitcoin) BTC](https://top.gg/bot/947772389712859177) |
+1- [(Bitcoin) BTC](https://top.gg/bot/947772389712859177) ![Discord Bots](https://top.gg/api/widget/servers/947772389712859177.svg) |
 2- [(Ethereum) ETH](https://discord.com/api/oauth2/authorize?client_id=949021478152699934&permissions=201326592&scope=bot) |
 3- [BNB](https://discord.com/api/oauth2/authorize?client_id=949021539121123350&permissions=201326592&scope=bot) |
 4- [(Dogecoin) DOGE](https://discord.com/api/oauth2/authorize?client_id=949050435254255677&permissions=201326592&scope=bot) |
