@@ -50,6 +50,10 @@ You can see cryptocurrencies and 24-hour volume instantly on discord.
 46- [(Bitkub) KUB/THB](https://discord.com/api/oauth2/authorize?client_id=957583965093503046&permissions=201326592&scope=bot) |
 47- [(Bitcoin Cash) BCH](https://discord.com/api/oauth2/authorize?client_id=957587432482672690&permissions=201326592&scope=bot) |
 48- [(Zcash) ZEC](https://discord.com/api/oauth2/authorize?client_id=957587475793055774&permissions=201326592&scope=bot) |
+49- [AAVE](https://discord.com/api/oauth2/authorize?client_id=959664906213404712&permissions=201326592&scope=bot) |
+50- [(Compound) COMP](https://discord.com/api/oauth2/authorize?client_id=959665403607543850&permissions=201326592&scope=bot) |
+51- [(Filecoin) FIL](https://discord.com/api/oauth2/authorize?client_id=959665872555884554&permissions=201326592&scope=bot) |
+52- [DASH](https://discord.com/api/oauth2/authorize?client_id=959666203108982784&permissions=201326592&scope=bot) |
 ... |
 
 ## Information
