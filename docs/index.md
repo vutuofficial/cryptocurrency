@@ -1,7 +1,5 @@
 <div id="top"></div>
 <div align="center">
-  <h3 align="center">You can see cryptocurrencies and 24-hour volume instantly on discord.</h3>
-
   <p align="center">
     <a href="https://discord.gg/xePcHcGTk9">Support Server</a>
     ·
