@@ -1,4 +1,22 @@
-You can see cryptocurrencies and 24-hour volume instantly on discord.
+
+<div id="top"></div>
+<div align="center">
+  <h3 align="center">You can see cryptocurrencies and 24-hour volume instantly on discord.</h3>
+
+  <p align="center">
+    <a href="https://discord.gg/xePcHcGTk9">Support Server</a>
+    ·
+    <a href="https://vutuofficial.github.io/cryptocurrency/#information">Privacy Policy</a>
+    ·
+    <a href="https://vutuofficial.github.io/cryptocurrency/#terms-of-service">Terms of Service</a>
+    <br />
+    <br />
+    <a href="https://vutuofficial.github.io/cryptocurrency/#information">‼️ Information ‼️</a>
+    <br />
+    <br />
+     <a href="https://www.buymeacoffee.com/vutu" target="_blank">Support the project!</a>
+  </p>
+</div>
 
 ## Bots 🤖
 
@@ -79,10 +97,5 @@ You can see cryptocurrencies and 24-hour volume instantly on discord.
 
 - You can add my bots to your server so that I can make more bots. It will be your greatest support. 💜
 
-## 🥳 Support for the project 
-<a href="https://www.buymeacoffee.com/vutu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
 ## Terms of Service
 - No usage conditions are required. You can add the bot to your server and start using it. 
-
-### ⚙️ [Support Server](https://discord.gg/xePcHcGTk9)
