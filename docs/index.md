@@ -1,4 +1,3 @@
-
 <div id="top"></div>
 <div align="center">
   <h3 align="center">You can see cryptocurrencies and 24-hour volume instantly on discord.</h3>
