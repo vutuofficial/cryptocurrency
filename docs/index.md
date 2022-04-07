@@ -54,6 +54,14 @@ You can see cryptocurrencies and 24-hour volume instantly on discord.
 50- [(Compound) COMP](https://discord.com/api/oauth2/authorize?client_id=959665403607543850&permissions=201326592&scope=bot) |
 51- [(Filecoin) FIL](https://discord.com/api/oauth2/authorize?client_id=959665872555884554&permissions=201326592&scope=bot) |
 52- [DASH](https://discord.com/api/oauth2/authorize?client_id=959666203108982784&permissions=201326592&scope=bot) |
+53- [(Symmetric) SYMM](https://discord.com/api/oauth2/authorize?client_id=961455451445280788&permissions=201326592&scope=bot) |
+54- [(Gnosis) GNO](https://discord.com/api/oauth2/authorize?client_id=961456046843523123&permissions=201326592&scope=bot) |
+55- [CELO](https://discord.com/api/oauth2/authorize?client_id=961456458787094558&permissions=201326592&scope=bot) |
+56- [(Cosmos) ATOM](https://discord.com/api/oauth2/authorize?client_id=961462392955473980&permissions=201326592&scope=bot) |
+57- [(NEAR Protocol) NEAR](https://discord.com/api/oauth2/authorize?client_id=961462805532401715&permissions=201326592&scope=bot) |
+58- [(Uniswap) UNI](https://discord.com/api/oauth2/authorize?client_id=961467861598109736&permissions=201326592&scope=bot) |
+59- [(Holo) HOT](https://discord.com/api/oauth2/authorize?client_id=961468254059106325&permissions=201326592&scope=bot) |
+60- [(Theta Network) THETA](https://discord.com/api/oauth2/authorize?client_id=961471767602409592&permissions=201326592&scope=bot) |
 ... |
 
 ## Information
