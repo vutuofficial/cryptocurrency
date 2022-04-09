@@ -12,7 +12,11 @@
     <a href="https://vutuofficial.github.io/cryptocurrency/#information">‼️ Information ‼️</a>
     <br />
     <br />
-     <a href="https://www.buymeacoffee.com/vutu" target="_blank">Support the project!</a>
+     <a>Support the project!</a>
+    <br />
+    0xc9d505d0b99a77d4a18f63a0329cd9afa480535f (BSC)
+    <br />
+    TJMTie6JDzMye33eCmdoCwurz11pBq9Gsw (TRX)
   </p>
 </div>
 
