@@ -12,7 +12,7 @@
     <a href="https://vutuofficial.github.io/cryptocurrency/#information">‼️ Information ‼️</a>
     <br />
     <br />
-     Support the project!
+     Support the project! for USDT
     <br />
     0xc9d505d0b99a77d4a18f63a0329cd9afa480535f (BSC)
     <br />
