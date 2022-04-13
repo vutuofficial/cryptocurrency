@@ -82,6 +82,20 @@
 58- [(Uniswap) UNI](https://discord.com/api/oauth2/authorize?client_id=961467861598109736&permissions=201326592&scope=bot) |
 59- [(Holo) HOT](https://discord.com/api/oauth2/authorize?client_id=961468254059106325&permissions=201326592&scope=bot) |
 60- [(Theta Network) THETA](https://discord.com/api/oauth2/authorize?client_id=961471767602409592&permissions=201326592&scope=bot) |
+61- [(Moola Market) MOO](https://discord.com/api/oauth2/authorize?client_id=963865597874176080&permissions=201326592&scope=bot) |
+62- [(Agave Token) AGVE](https://discord.com/api/oauth2/authorize?client_id=963866057263689738&permissions=201326592&scope=bot) |
+63- [(Mobius Money) MOBI](https://discord.com/api/oauth2/authorize?client_id=963865643004887050&permissions=201326592&scope=bot) |
+64- [(Ari Swap) ARI](https://discord.com/api/oauth2/authorize?client_id=963865680262860830&permissions=201326592&scope=bot) |
+65- [(KnoxEdge) KNX](https://discord.com/api/oauth2/authorize?client_id=963865709300031568&permissions=201326592&scope=bot) |
+66- [(impactMarket) PACT](https://discord.com/api/oauth2/authorize?client_id=963865740497264640&permissions=201326592&scope=bot) |
+67- [(PoofCash) POOF](https://discord.com/api/oauth2/authorize?client_id=963865767013650442&permissions=201326592&scope=bot) |
+68- [(Ubeswap) UBE](https://discord.com/api/oauth2/authorize?client_id=963865792548589608&permissions=201326592&scope=bot) |
+69- [SUSHI](https://discord.com/api/oauth2/authorize?client_id=963865833501757481&permissions=201326592&scope=bot) |
+70- [(Minerva Wallet) MIVA](https://discord.com/api/oauth2/authorize?client_id=963866035503644782&permissions=201326592&scope=bot) |
+71- [FRACTION](https://discord.com/api/oauth2/authorize?client_id=963866010488823918&permissions=201326592&scope=bot) |
+72- [(Honey) HNY](https://discord.com/api/oauth2/authorize?client_id=963865979950100550&permissions=201326592&scope=bot) |
+73- [STAKE](https://discord.com/api/oauth2/authorize?client_id=963865951965687839&permissions=201326592&scope=bot) |
+74- [(DAOhaus) HAUS](https://discord.com/api/oauth2/authorize?client_id=963865924715302982&permissions=201326592&scope=bot) |
 ... |
 
 ## Information
