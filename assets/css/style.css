@@ -443,12 +443,12 @@ section {
   justify-content: center;
 }
 .clients img {
-  width: 50%;
+  width: 40%;
   filter: grayscale(100);
   transition: all 0.4s ease-in-out;
   display: inline-block;
   padding: 10px 0;
-  margin-left: 840px;
+  margin-left: 860px;
 }
 .clients img:hover {
   filter: none;
