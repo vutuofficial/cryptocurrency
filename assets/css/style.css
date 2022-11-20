@@ -465,42 +465,39 @@ section {
   }
 }
 
-/*--------------------------------------------------------------
-# Clients 2
---------------------------------------------------------------*/
-
-.clie2 {
-  background: #e3242b;
+.clx {
+  background: red;
   padding: 10px 0;
   text-align: center;
 }
-.clie2 .col-lg-2 {
+.clx .col-lg-2 {
   display: flex;
   align-items: center;
   justify-content: center;
 }
-.clie2 img {
-  width: 145%;
+.clx img {
+  width: 140%;
   filter: grayscale(100);
   transition: all 0.4s ease-in-out;
   display: inline-block;
   padding: 10px 0;
   margin-left: 610px;
 }
-.clie2 img:hover {
+.clx img:hover {
   filter: none;
   transform: scale(1.1);
 }
 @media (max-width: 768px) {
-  .clie2 img {
+  .clx img {
     width: 40%;
   }
 }
 @media (max-width: 575px) {
-  .clie2 img {
+  .clx img {
     width: 30%;
   }
 }
+
 
 /*--------------------------------------------------------------
 # bots Us
